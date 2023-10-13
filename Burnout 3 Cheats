@@ -14,10 +14,16 @@ patch=1,EE,207BA01E,extended,00430020
 patch=1,EE,207BA022,extended,00560049
 patch=1,EE,207BA026,extended,00430049
 
-patch=1,EE,207BA02C,extended,004F0054 //Changes "COMPACT TYPE 3" To "TOYOTA CELICA"
+patch=1,EE,207BA02C,extended,004F0054 // Changes "COMPACT TYPE 3" To "TOYOTA CELICA"
 patch=1,EE,207BA030,extended,004F0059
 patch=1,EE,207BA034,extended,00410054
 patch=1,EE,207BA038,extended,00430020
 patch=1,EE,207BA03C,extended,004C0045
 patch=1,EE,207BA040,extended,00430049
 patch=1,EE,207BA044,extended,00000041
+
+patch=1,EE,207BA04A,extended,00340030 // Changes "TUNED COMPACT" To "04 BMW M3"
+patch=1,EE,207BA04E,extended,00420020
+patch=1,EE,207BA052,extended,0057004D
+patch=1,EE,207BA056,extended,004D0020
+patch=1,EE,207BA05A,extended,00000033
