@@ -52,3 +52,11 @@ patch=1,EE,207BA0B8,extended,00430020
 patch=1,EE,207BA0BC,extended,00560049
 patch=1,EE,207BA0C0,extended,00430049
 patch=1,EE,007BA0C4,extended,00000000
+
+patch=1,EE,207BA0CA,extended,004F0054 // Changes "COMPACT PROTOTYPE" To "TOYOTA CELICA"
+patch=1,EE,207BA0CE,extended,004F0059
+patch=1,EE,207BA0D2,extended,00410054
+patch=1,EE,207BA0D6,extended,00430020
+patch=1,EE,207BA0DA,extended,004C0045
+patch=1,EE,207BA0DE,extended,00430049
+patch=1,EE,207BA0E2,extended,00000041
