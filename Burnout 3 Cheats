@@ -35,3 +35,11 @@ patch=1,EE,207BA074,extended,0020004C
 patch=1,EE,207BA078,extended,00530041
 patch=1,EE,207BA07C,extended,00520054
 patch=1,EE,207BA080,extended,00000041
+
+patch=1,EE,207BA08A,extended,00340030 // Changes "CUSTOM COMPACT" To "04 HONDA CIVIC"
+patch=1,EE,207BA08E,extended,00480020
+patch=1,EE,207BA092,extended,004E004F
+patch=1,EE,207BA096,extended,00410044
+patch=1,EE,207BA09A,extended,00430020
+patch=1,EE,207BA09E,extended,00560049
+patch=1,EE,207BA0A2,extended,00430049
