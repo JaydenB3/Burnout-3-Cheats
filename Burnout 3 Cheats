@@ -43,3 +43,12 @@ patch=1,EE,207BA096,extended,00410044
 patch=1,EE,207BA09A,extended,00430020
 patch=1,EE,207BA09E,extended,00560049
 patch=1,EE,207BA0A2,extended,00430049
+
+patch=1,EE,207BA0A8,extended,00350039 // Changes "ASSASSIN COMPACT" To "95 HONDA CIVIC"
+patch=1,EE,207BA0AC,extended,00480020
+patch=1,EE,207BA0B0,extended,004E004F
+patch=1,EE,207BA0B4,extended,00410044
+patch=1,EE,207BA0B8,extended,00430020
+patch=1,EE,207BA0BC,extended,00560049
+patch=1,EE,207BA0C0,extended,00430049
+patch=1,EE,007BA0C4,extended,00000000
