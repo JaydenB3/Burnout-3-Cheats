@@ -27,3 +27,11 @@ patch=1,EE,207BA04E,extended,00420020
 patch=1,EE,207BA052,extended,0057004D
 patch=1,EE,207BA056,extended,004D0020
 patch=1,EE,207BA05A,extended,00000033
+
+patch=1,EE,207BA068,extended,00340030 // Changes "MODIFIED COMPACT" To "04 OPEL ASTRA"
+patch=1,EE,207BA06C,extended,004F0020
+patch=1,EE,207BA070,extended,00450050
+patch=1,EE,207BA074,extended,0020004C
+patch=1,EE,207BA078,extended,00530041
+patch=1,EE,207BA07C,extended,00520054
+patch=1,EE,207BA080,extended,00000041
