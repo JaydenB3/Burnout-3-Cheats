@@ -81,3 +81,33 @@ patch=1,EE,207BA130,extended,00530055
 patch=1,EE,207BA134,extended,00410054
 patch=1,EE,207BA138,extended,0047004E
 patch=1,EE,207BA13C,extended,00200000
+
+patch=1,EE,207BA144,extended,00390039 // Changes "MUSCLE TYPE 2" To "99 SKYLINE
+patch=1,EE,207BA148,extended,00530020
+patch=1,EE,207BA14C,extended,0059004B
+patch=1,EE,207BA150,extended,0049004C
+patch=1,EE,207BA154,extended,0045004E
+patch=1,EE,007BA158,extended,00000000
+
+patch=1,EE,207BA160,extended,00390036 // Changes "MUSCLE TYPE 3" To "69 FORD GT40"
+patch=1,EE,207BA164,extended,00460020
+patch=1,EE,207BA168,extended,0052004F
+patch=1,EE,207BA16C,extended,00200044
+patch=1,EE,207BA170,extended,00540047
+patch=1,EE,207BA174,extended,00300034
+patch=1,EE,007BA178,extended,00000000
+
+patch=1,EE,207BA17C,extended,00330030 // Changes "TUNED MUSCLE" To "03 VIPER"
+patch=1,EE,207BA180,extended,00560020
+patch=1,EE,207BA184,extended,00500049
+patch=1,EE,207BA188,extended,00520045
+patch=1,EE,007BA18C,extended,00000000
+
+patch=1,EE,207BA198,extended,00370039 // Changes "MODIFIED MUSCLE" To "97 DODGE VIPER"
+patch=1,EE,207BA19C,extended,00440020
+patch=1,EE,207BA1A0,extended,0044004F
+patch=1,EE,207BA1A4,extended,00450047
+patch=1,EE,207BA1A8,extended,00560020
+patch=1,EE,207BA1AC,extended,00500049
+patch=1,EE,207BA1B0,extended,00520045
+patch=1,EE,007BA1B4,extended,00000000
