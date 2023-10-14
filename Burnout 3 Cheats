@@ -60,3 +60,9 @@ patch=1,EE,207BA0D6,extended,00430020
 patch=1,EE,207BA0DA,extended,004C0045
 patch=1,EE,207BA0DE,extended,00430049
 patch=1,EE,207BA0E2,extended,00000041
+
+patch=1,EE,207BA0EE,extended,00340030 // Changes "COMPACT DX" To "04 BMW M3"
+patch=1,EE,207BA0F2,extended,00420020
+patch=1,EE,207BA0F6,extended,0057004D
+patch=1,EE,207BA0FA,extended,004D0020
+patch=1,EE,207BA0FE,extended,00000033
