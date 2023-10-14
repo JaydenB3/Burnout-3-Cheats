@@ -74,3 +74,10 @@ patch=1,EE,207BA110,extended,0020004C
 patch=1,EE,207BA114,extended,00530041
 patch=1,EE,207BA118,extended,00520054
 patch=1,EE,207BA11C,extended,00000041
+
+patch=1,EE,207BA128,extended,00300037 // Changes "MUSCLE TYPE 1" To "70 MUSTANG"
+patch=1,EE,207BA12C,extended,004D0020
+patch=1,EE,207BA130,extended,00530055
+patch=1,EE,207BA134,extended,00410054
+patch=1,EE,207BA138,extended,0047004E
+patch=1,EE,207BA13C,extended,00200000
