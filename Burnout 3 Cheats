@@ -111,3 +111,40 @@ patch=1,EE,207BA1A8,extended,00560020
 patch=1,EE,207BA1AC,extended,00500049
 patch=1,EE,207BA1B0,extended,00520045
 patch=1,EE,007BA1B4,extended,00000000
+
+patch=1,EE,207BA1B8,extended,00300037 // Changes "CUSTOM MUSCLE" To "70 MUSTANG"
+patch=1,EE,207BA1BC,extended,004D0020
+patch=1,EE,207BA1C0,extended,00530055
+patch=1,EE,207BA1C4,extended,00410054
+patch=1,EE,207BA1C8,extended,0047004E
+patch=1,EE,007BA1CC,extended,00000000
+
+patch=1,EE,207BA1D4,extended,00390039 // Changes "ASSASSIN MUSCLE" To "99 SKYLINE"
+patch=1,EE,207BA1D8,extended,00530020
+patch=1,EE,207BA1DC,extended,0059004B
+patch=1,EE,207BA1E0,extended,0049004C
+patch=1,EE,207BA1E4,extended,0045004E
+patch=1,EE,007BA1E8,extended,00000000
+
+patch=1,EE,207BA1F4,extended,00390036 // Changes "MUSCLE PROTOTYPE" To "69 FORD GT40"
+patch=1,EE,207BA1F8,extended,00460020
+patch=1,EE,207BA1FC,extended,0052004F
+patch=1,EE,207BA200,extended,00200044
+patch=1,EE,207BA204,extended,00540047
+patch=1,EE,207BA208,extended,00300034
+patch=1,EE,007BA20C,extended,00000000
+
+patch=1,EE,207BA216,extended,00330030 // Changes "MUSCLE DX" To "03 VIPER"
+patch=1,EE,207BA21A,extended,00560020
+patch=1,EE,207BA21E,extended,00500049
+patch=1,EE,207BA222,extended,00520045
+patch=1,EE,207BA226,extended,00000000
+
+patch=1,EE,207BA22A,extended,00370039 // Changes "DOMINATOR MUSCLE" To "97 DODGE VIPER"
+patch=1,EE,207BA22E,extended,00440020
+patch=1,EE,207BA232,extended,0044004F
+patch=1,EE,207BA236,extended,00450047
+patch=1,EE,207BA23A,extended,00560020
+patch=1,EE,207BA23E,extended,00500049
+patch=1,EE,207BA242,extended,00520045
+patch=1,EE,007BA246,extended,00000000
