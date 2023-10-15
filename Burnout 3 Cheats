@@ -148,3 +148,23 @@ patch=1,EE,207BA23A,extended,00560020
 patch=1,EE,207BA23E,extended,00500049
 patch=1,EE,207BA242,extended,00520045
 patch=1,EE,007BA246,extended,00000000
+
+patch=1,EE,207BA24C,extended,00330030 // Changes "COUPE TYPE 1" To "03 IMPREZA
+patch=1,EE,207BA250,extended,00490020
+patch=1,EE,207BA254,extended,0050004D
+patch=1,EE,207BA258,extended,00450052
+patch=1,EE,207BA25C,extended,0041005A
+patch=1,EE,007BA260,extended,00000000
+
+patch=1,EE,207BA266,extended,00360039 // Changes "COUPE TYPE 2" To "96 BMW M3"
+patch=1,EE,207BA26A,extended,00420020
+patch=1,EE,207BA26E,extended,0057004D
+patch=1,EE,207BA272,extended,004D0020
+patch=1,EE,207BA276,extended,00000033
+
+patch=1,EE,207BA280,extended,00300030 // Changes "COUPE TYPE 3" To "00 CLK-DTM"
+patch=1,EE,207BA284,extended,00430020
+patch=1,EE,207BA288,extended,004B004C
+patch=1,EE,207BA28C,extended,0044002D
+patch=1,EE,207BA290,extended,004D0054
+patch=1,EE,007BA294,extended,00000000
